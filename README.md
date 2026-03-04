@@ -29,14 +29,20 @@ It simulates trading data, performs basic portfolio and risk analysis, and visua
 ```bash
 conda create -n tradingops python=3.10
 conda activate tradingops
+```
 
 2. Install dependencies:
+
+```bash
 pip install pandas numpy matplotlib seaborn
+```
 
 3. Run scripts:
+
+```bash
 python src/generate_data.py
 python src/analysis.py
-
+```
 
 ---
 
