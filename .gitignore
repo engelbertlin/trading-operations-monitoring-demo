@@ -7,3 +7,7 @@ __pycache__/
 
 # VS Code 設定檔
 .vscode/
+
+# virtual environment
+.venv/
+tradingops/
