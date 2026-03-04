@@ -1,0 +1,9 @@
+# macOS 系統檔案
+.DS_Store
+
+# Python 相關暫存
+__pycache__/
+*.pyc
+
+# VS Code 設定檔
+.vscode/
